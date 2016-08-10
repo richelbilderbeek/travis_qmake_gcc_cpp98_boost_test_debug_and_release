@@ -6,7 +6,7 @@ addons:
     packages: libboost-all-dev
 
 script:
-  - build_debug.sh
-  - build_release.sh
-  - build_debug_test.sh
-  - build_release_test.sh
+  - ./build_debug.sh
+  - ./build_release.sh
+  - ./build_debug_test.sh
+  - ./build_release_test.sh

@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+Makefile
+Makefile*
+travis_qmake_gcc_cpp98_boost_test_debug_and_release
+travis_qmake_gcc_cpp98_boost_test_debug_and_release_test
